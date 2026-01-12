@@ -23,6 +23,7 @@ body {
     border-radius: 10px;
     gap: 12px;
     padding: 20px 5px;
+    box-shadow: 0 1px 40px rgb(51, 51, 51)
 }
 
 img {
