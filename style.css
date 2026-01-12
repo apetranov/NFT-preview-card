@@ -21,6 +21,7 @@ body {
     height: 450px;
     border-radius: 10px;
     gap: 12px;
+    padding: 5px;
 }
 
 img {
@@ -49,7 +50,7 @@ p {
 .etherium {
     display: flex;
     gap: 5px;
-    color: rgb(195, 195, 195);
+    color: rgb(255, 255, 255);
 }
 
 .etherium img {
@@ -72,4 +73,21 @@ p {
     align-items: center;
     border-bottom: 1px solid gray;
     padding-bottom: 10px;
+}
+
+.creator {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: rgb(195, 195, 195);
+}
+
+.creator img {
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.creator span span {
+    color: white;
 }
