@@ -1,5 +1,7 @@
 # Frontend Mentor - NFT preview card component
 
+# Live Link: https://nft-preview-card-blond-omega.vercel.app
+
 ![Design preview for the NFT preview card component coding challenge](preview.jpg)
 
 ## Welcome! 👋
